@@ -133,12 +133,12 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 
 - [Otter.ai](https://otter.ai/) - A meeting assistant that records audio, writes notes, automatically captures slides, and generates summaries.
 - [Cogram](https://www.cogram.com/) - Cogram takes automatic notes in virtual meetings and identifies action items.
-- [Sybill](https://www.sybill.ai/) - Sybill generates summaries of sales calls, including next steps, pain points and areas of interest, by combining transcript and emotion-based insights.
+- [Sybill](https://www.sybill.ai/) - Sybill generates summaries of sales calls, including next steps, pain points, and areas of interest, by combining transcript and emotion-based insights.
 - [Loopin AI](https://www.loopinhq.com/) - Loopin is a collaborative meeting workspace that not only enables you to record, transcribe & summaries meetings using AI, but also enables you to auto-organise meeting notes on top of your calendar.
 - [Fireflies.ai](https://fireflies.ai/) - Fireflies.ai helps your team transcribe, summarize, search, and analyze voice conversations.
 - [Read AI](https://www.read.ai/) - An AI copilot for wherever you work, making your meetings, emails, and messages more productive with summaries, content discovery, and recommendations.
 - [Fireflies.ai](https://fireflies.ai) - Transcribe, summarize, search, and analyze all your team conversations.
-
+- [TwinMind](https://twinmind.com) - Summarise, transcribe, and effectively take AI meeting notes to increase the team productivity.
 ### Academia
 
 - [Elicit](https://elicit.org/) - Elicit uses language models to help you automate research workflows, like parts of literature review.
